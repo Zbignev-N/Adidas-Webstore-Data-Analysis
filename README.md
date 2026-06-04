@@ -41,5 +41,6 @@ The dashboard includes:
 - Data cleaning in Python
 - Data extraction using SQL
 - Interactive dashboard built in Power BI
+ Adidas sales 1.png
 
  ## 👤 Author **Zbignev Novosinskis** Junior Data Analyst | Python | SQL | Power BI  
