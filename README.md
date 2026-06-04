@@ -39,5 +39,6 @@ The dashboard includes:
 
 ## 📁 Project Structure
 https://drive.google.com/file/d/1buH5Xtt5NygHCnVozUebnMF4Ma7llUOe/view
+https://drive.google.com/file/d/1KhnKQjc910HczTr4DHjJlPxFZW4chsNY/view?usp=sharing
 
  ## 👤 Author **Zbignev Novosinskis** Junior Data Analyst | Python | SQL | Power BI  
