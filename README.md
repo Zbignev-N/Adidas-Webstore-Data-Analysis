@@ -38,7 +38,8 @@ The dashboard includes:
 ---
 
 ## 📁 Project Structure
-https://drive.google.com/file/d/1buH5Xtt5NygHCnVozUebnMF4Ma7llUOe/view
-![Dashboard](Adidas sales 1.png)
+- Data cleaning in Python
+- Data extraction using SQL
+- Interactive dashboard built in Power BI
 
  ## 👤 Author **Zbignev Novosinskis** Junior Data Analyst | Python | SQL | Power BI  
