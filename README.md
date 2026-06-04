@@ -39,6 +39,6 @@ The dashboard includes:
 
 ## 📁 Project Structure
 https://drive.google.com/file/d/1buH5Xtt5NygHCnVozUebnMF4Ma7llUOe/view
-![Dashboard]([images/dashboard_overview.png](https://drive.google.com/file/d/1KhnKQjc910HczTr4DHjJlPxFZW4chsNY/view?usp=sharing))
+![Dashboard](images/Adidas sales 1.png)
 
  ## 👤 Author **Zbignev Novosinskis** Junior Data Analyst | Python | SQL | Power BI  
